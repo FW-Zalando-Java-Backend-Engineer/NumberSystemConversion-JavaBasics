@@ -203,12 +203,54 @@ Binary: 101101
 ```
 ---
 
-## **📌 Submission Steps**
-1. **Run your program** and test your outputs.  
-2. **Save your completed `Assignment.java` file**.  
-3. **Upload your file to GitHub Classroom** _(or submit via email if instructed)_.  
+
+## 📝 How You Will Use the provided Java file (`Assignment.java`).
+💡 Follow these steps to complete the assignment:
+
+1️⃣ **Open the `Assignment.java` file** in your **Java IDE** (IntelliJ IDEA, VS Code, Eclipse, or BlueJ).  
+2️⃣ **Complete each `TODO` section** inside the provided methods by implementing the missing logic.  
+3️⃣ **Test your program** by running it and providing different inputs.  
+4️⃣ **Verify your outputs** match the expected results.  
+5️⃣ **Once all conversions work correctly, submit your final `Assignment.java` file** following the provided instructions.
 
 ---
+
+## **🎯 What This File Includes**
+✔ **Java Basics** (`Hello World`, Variables).  
+✔ **User Input Handling** (`Scanner` for interactive input).  
+✔ **Methods for Each Number System Conversion** (Manual implementations with instructions).  
+✔ **Bonus:** A **Menu-Driven Number Converter** (For extra challenge).  
+
+---
+
+## **📌 Next Steps ...**
+💡 **Follow these steps to complete your assignment smoothly:**
+
+1️⃣ **Run the program as it is** to see the initial output.  
+2️⃣ **Implement the `decimalToBinary` method** and test it.  
+3️⃣ **Implement the `binaryToDecimal` method** and test it.  
+4️⃣ **Implement the `decimalToOctal` and `decimalToHexadecimal` methods** and verify their correctness.  
+5️⃣ **Run the interactive menu** and confirm that all conversions work as expected.  
+6️⃣ **Submit your completed `Assignment.java` file** through GitHub Classroom (or as instructed).  
+
+---
+
+## **🚀 Submission Instructions**
+Once you have completed all tasks:
+1. **Save your final `Assignment.java` file.**  
+2. **Upload the file to GitHub Classroom** (or follow alternative submission instructions).  
+3. **Double-check that all functions work before submitting.**  
+
+---
+
+### **❓ Need Help?**
+If you have questions:
+- **Revisit the class lessons and examples.**
+- **Ask your instructor or teammates for guidance.**
+- **Debug by adding print statements to understand how your code executes.**
+
+---
+
 
 ## **📊 Grading Criteria**
 | Section | Points |
